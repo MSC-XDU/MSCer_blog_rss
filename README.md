@@ -40,3 +40,4 @@ MSC各位成员的博客rss地址的收集仓库
 ## 目前收录的博客列表:
 
 - yrpang: [yrPang](https://blog.yrpang.com/)
+- ailemon: [ailemon](https://blog.ailemon.me/)
