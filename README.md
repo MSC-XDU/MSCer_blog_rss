@@ -47,6 +47,6 @@ MSC各位成员的博客rss地址的收集仓库
 - sspirits: [sspirits](https://blog.sspirits.top/)
 - fx-moon: [fx-moon](https://www.git.moe/)
 - Frank: [Frank](https://blog.frankli.site/)
-- konge: [konge](konge.pw)
+- konge: [konge](https://konge.pw)
 - Wallet: [Wallet](39.105.105.208)
 - yrpang: [yrPang](https://blog.yrpang.com/)
