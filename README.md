@@ -39,5 +39,12 @@ MSC各位成员的博客rss地址的收集仓库
 
 ## 目前收录的博客列表:
 
-- yrpang: [yrPang](https://blog.yrpang.com/)
 - ailemon: [ailemon](https://blog.ailemon.me/)
+- BIG BOOM: [BIG BOOM](https://blog.dapaostudio.com/)
+- NEFF: [NEFF](https://blog.neffhzw.com/)
+- Stupid mie: [Stupid mie](https://blog.lcyown.cn/)
+- Da Sheng: [Da Sheng](https://blog.cssun.xyz/)
+- Frank: [Frank](https://blog.frankli.site/)
+- sspirits: [sspirits](https://blog.sspirits.top/)
+- fx-moon: [fx-moon](https://www.git.moe/)
+- yrpang: [yrPang](https://blog.yrpang.com/)
