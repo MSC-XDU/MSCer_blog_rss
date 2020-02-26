@@ -51,3 +51,4 @@ MSC各位成员的博客rss地址的收集仓库
 - Wallet: [Wallet](39.105.105.208)
 - yrpang: [yrPang](https://blog.yrpang.com/)
 - Sunshinetown:[Sunshinetown](http://ti.jiashang.ga/)
+- actedeer:[actedeer](https://blog.acteder.cn/)
