@@ -40,9 +40,9 @@ MSC各位成员的博客rss地址的收集仓库
 ## 目前收录的博客列表:
 
 - ailemon: [ailemon](https://blog.ailemon.me/)
-- BIG BOOM: [BIG BOOM](https://blog.dapaostudio.com/)
+- Nouthest: [Nouthest](https://blog.dapaostudio.com/)
 - NEFF: [NEFF](https://blog.neffhzw.com/)
-- Stupid mie: [Stupid mie](https://blog.lcyown.cn/)
+- lcyow: [lcyow](https://blog.lcyown.cn/)
 - Da Sheng: [Da Sheng](https://blog.cssun.xyz/)
 - sspirits: [sspirits](https://blog.sspirits.top/)
 - fx-moon: [fx-moon](https://www.git.moe/)
@@ -51,3 +51,4 @@ MSC各位成员的博客rss地址的收集仓库
 - Wallet: [Wallet](39.105.105.208)
 - yrpang: [yrPang](https://blog.yrpang.com/)
 - Sunshinetown:[Sunshinetown](http://ti.jiashang.ga/)
+- actedeer:[actedeer](https://blog.acteder.cn/)
