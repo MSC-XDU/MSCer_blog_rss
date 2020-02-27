@@ -52,3 +52,6 @@ MSC各位成员的博客rss地址的收集仓库
 - yrpang: [yrPang](https://blog.yrpang.com/)
 - Sunshinetown:[Sunshinetown](http://ti.jiashang.ga/)
 - actedeer:[actedeer](https://blog.acteder.cn/)
+- CnTeng: [CnTeng](https://cnteng.github.io)
+
+
