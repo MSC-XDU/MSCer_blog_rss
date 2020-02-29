@@ -53,5 +53,5 @@ MSC各位成员的博客rss地址的收集仓库
 - Sunshinetown:[Sunshinetown](http://ti.jiashang.ga/)
 - actedeer:[actedeer](https://blog.acteder.cn/)
 - CnTeng: [CnTeng](https://cnteng.github.io)
-
+- Reverier: [Reverier](https://www.wootec.top/)
 
