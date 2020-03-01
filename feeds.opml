@@ -4,7 +4,8 @@
             <outline title="yrPang" text="yrPang" xmlUrl="https://blog.yrpang.com/atom.xml" htmlUrl="https://blog.yrpang.com/"></outline>
             <outline title="Sunshine Town·阳光小镇" text="Sunshine Town·阳光小镇" xmlUrl="http://ti.jiashang.ga/index.php/feed/" htmlUrl="http://ti.jiashang.ga" type="rss"/>
             <outline title="Reverier" text="Reverier" xmlUrl="https://www.wootec.top/atom.xml" htmlUrl="https://www.wootec.top/"></outline>
-			https://alpha-yang.github.io/atom.xml
+	    <outline title="alpha-yang" text="alpha-yang" xmlUrl="https://alpha-yang.github.io/atom.xml" htmlUrl="https://alpha-yang.github.io/"></outline>
+			
 	</body>
     </opml>
 
