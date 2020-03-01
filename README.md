@@ -54,5 +54,4 @@ MSC各位成员的博客rss地址的收集仓库
 - actedeer:[actedeer](https://blog.acteder.cn/)
 - CnTeng: [CnTeng](https://cnteng.github.io)
 - Reverier: [Reverier](https://www.wootec.top/)
-
-https://alpha-yang.github.io/
+- alpha-yang: [alpha-yang](https://alpha-yang.github.io/)
