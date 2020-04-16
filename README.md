@@ -56,3 +56,4 @@ MSC各位成员的博客rss地址的收集仓库
 - Reverier: [Reverier](https://www.wootec.top/)
 - alpha-yang: [alpha-yang](https://alpha-yang.github.io/)
 - HAPPY: [HAPPY](http://happyers.top)
+- EndCat: [EndCat](https://endcat.cn/kanna/)
