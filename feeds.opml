@@ -8,6 +8,7 @@
 	    <outline title="Frank" text="Frank" xmlUrl="https://blog.frankli.site/atom.xml" htmlUrl="https://blog.frankli.site"></outline>
 	    <outline title="HAPPY" text="HAPPY" xmlUrl="http://happyers.top/feed/" htmlUrl="http://happyers.top"></outline>
 	    <outline title="EndCat" text="EndCat" xmlUrl="http://endcat.cn/kanna/index.php/feed/" htmlUrl="http://endcat.cn/kanna/"></outline>
+        <outline title="Orange Cheers" text="Orange Cheers" xmlUrl="https://honoka.tech/atom.xml" htmlUrl="https://honoka.tech"></outline>
 	</body>
     </opml>
 

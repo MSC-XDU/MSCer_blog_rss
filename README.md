@@ -57,3 +57,4 @@ MSC各位成员的博客rss地址的收集仓库
 - alpha-yang: [alpha-yang](https://alpha-yang.github.io/)
 - HAPPY: [HAPPY](http://happyers.top)
 - EndCat: [EndCat](https://endcat.cn/kanna/)
+- Orange Cheers: [Orange Cheers](https://honoka.tech)
