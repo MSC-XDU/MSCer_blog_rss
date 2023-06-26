@@ -9,6 +9,8 @@
 	    <outline title="HAPPY" text="HAPPY" xmlUrl="http://happyers.top/feed/" htmlUrl="http://happyers.top"></outline>
 	    <outline title="EndCat" text="EndCat" xmlUrl="http://endcat.cn/kanna/index.php/feed/" htmlUrl="http://endcat.cn/kanna/"></outline>
 	    <outline title="Mukiispace" text="Mukiispace" xmlUrl="https://www.mukiispace.tk/rss/feed.xml" htmlUrl="http://mukiispace.tk"></outline>
+      <outline title="HorizonChaser" text="HorizonChaser" xmlUrl="https://horizonchaser.github.io/rss2.xml" htmlUrl="https://horizonchaser.github.io/"></outline>
+
 	</body>
     </opml>
 
