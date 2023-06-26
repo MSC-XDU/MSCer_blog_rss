@@ -58,3 +58,5 @@ MSC各位成员的博客rss地址的收集仓库
 - HAPPY: [HAPPY](http://happyers.top)
 - EndCat: [EndCat](https://endcat.cn/kanna/)
 - Orange Cheers: [Orange Cheers](https://honoka.tech)
+- Mukii: [Mukiispace](https://mukiispace.tk)
+- HorizonChaser: [HorizonChaser](https://horizonchaser.github.io/)
